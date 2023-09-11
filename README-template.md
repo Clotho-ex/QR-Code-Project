@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [Example resource 1](https://coolors.co/) - This site helped me for picking up colors i used.
+- [Coolors.io](https://coolors.co/) - This site helped me for picking up colours I used.
 
 ## Author
 
