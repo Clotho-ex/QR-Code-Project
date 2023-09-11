@@ -36,4 +36,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - LinkedIn - [Yusufcan Var](https://www.linkedin.com/in/clotho/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Clotho-ex)
+- Frontend Mentor - [@Clotho-ex](https://www.frontendmentor.io/profile/Clotho-ex)
